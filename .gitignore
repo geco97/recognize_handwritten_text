@@ -5,4 +5,7 @@ data/raw/emnist-letters.zip
 data/raw/EMNIST
 data/raw/EMNIST
 /data/raw/archive(2)
-/data/processed
+/data/processed/train_labels.npy
+/data/processed/test_labels.npy
+/data/processed/train_data.npy
+/data/processed/test_data.npy
